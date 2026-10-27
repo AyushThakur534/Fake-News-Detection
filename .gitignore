@@ -1,6 +1,21 @@
+﻿# Python
 .venv/
+venv/
 __pycache__/
-*.pyc
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Trained models and generated reports
 models/*.joblib
 models/*.csv
 models/*.json
+
+# Large datasets - do not upload to GitHub
+data/Fake.csv
+data/True.csv
+data/news.csv
