@@ -235,6 +235,12 @@ UID: 24BCA10069
 Department: UIC-BCA  
 Project: Data Mining — Fake News Detection System
 
+## Contact Deatils
+
+Linkedin:-ayushthakur.in
+email:-git@ayushthakur.in
+
+
 ## References
 
 - [Python Documentation](https://docs.python.org/3/)
