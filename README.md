@@ -238,7 +238,7 @@ Project: Data Mining — Fake News Detection System
 ## Contact Deatils
 
 Linkedin:-ayushthakur.in
-email:-git@ayushthakur.in
+Email:-git@ayushthakur.in
 
 
 ## References
